@@ -1,0 +1,22 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "Hack Github Contribution Graph in 20 seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AHMED-HOMISHAN/Github-Bot.git"
+  },
+  "author": "AHMED SAMEER HOMISHAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AHMED-HOMISHAN/Github-Bot/issues"
+  },
+  "homepage": "https://github.com/AHMED-HOMISHAN/Github-Bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0"
+  }
+}
